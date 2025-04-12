@@ -1,5 +1,5 @@
 {
-    "name": "worker-name",
+    "name": "cariboo-boat-rentals",
     "compatibility_date": "2025-04-12",
     "assets": {
         "directory": "./dist"
